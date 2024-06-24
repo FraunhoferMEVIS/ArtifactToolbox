@@ -1,6 +1,8 @@
 # Artifact Toolbox
 
-Tools to detect and synthesize artifacts in whole slide images (WSI) from digital pathology.
+Tools to detect and synthesize artifacts in whole slide images (WSI) from digital pathology. This work has been funded by the German Federal Ministry of Education and Research (BMBF, grant ids: 01IS21067A, 01IS21067B, and 01IS21067C).
+
+![Gefördert_vom_BMBF](https://github.com/FraunhoferMEVIS/ArtifactToolbox/assets/7905525/b038d1c4-79e1-42ad-9b0e-759ec1832f6f)
 
 
 ## Artefact Detection
